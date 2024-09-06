@@ -1,2 +1,2 @@
 # kimsungjaerepo
-Uploading Privat Files
+Uploading Private Files
